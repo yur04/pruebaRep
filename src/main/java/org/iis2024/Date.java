@@ -60,10 +60,10 @@ public class Date {
    *     to pass).
    */
   private int nnumero;
-  public Date(int day, int month, int year) {
-    this.day = day;
-    this.month = month;
-    this.year = year;
+  public Date(int dia, int mes, int año) {
+    this.day = dia;
+    this.month = mes;
+    this.year = año;
   }
 
   /**
